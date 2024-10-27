@@ -7,7 +7,7 @@
     My biggest interest is in web programming, focused on frontend development
   </p>
   
-  ![Thanatodev's Stats](https://github-readme-stats.vercel.app/api?username=hanatodev&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+  ![Thanatodev's Stats](https://github-readme-stats.vercel.app/api?username=Thanatodev&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
   ![Thanatodev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thanatodev&theme=github_dark&show_icons=true&hide_border=true&layout=compact)
 
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
